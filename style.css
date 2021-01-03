@@ -1,0 +1,34 @@
+
+body {
+    background-color: powderblue;
+  }
+  h2 :hover{
+
+      stroke: brown;
+      text-align: center;
+      color: brown;
+      
+  }
+  img {
+      width: 20%;
+
+
+  }
+
+  #beautiful{
+      color: blue;
+      font-size: 14px;
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      border:blue; border-width:20px; border-style:inset;
+    
+    }
+.paragraph{
+    border: 2px solid red;
+    text-align: justify;
+    text-align: center;
+    padding:10px;
+    display: inline-block;
+}
+.paragraph h2{
+    color: royalblue;
+}
